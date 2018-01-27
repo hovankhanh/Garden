@@ -1,0 +1,36 @@
+body{
+	width: 100%;
+}
+
+.icon-bar{
+  background-color: black;
+}
+
+
+.mySlides{
+  width: 100%;
+}
+
+
+#navbar a:hover {
+  background-color: #ddd;
+  color: red;
+}
+
+#navbar a {
+  color: black;
+  text-align: center;
+  font-size: 17px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+#navbar a.active {
+  background-color: blue;
+  color: green;
+}
+//////////////////////////////
